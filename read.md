@@ -11,8 +11,8 @@ next sample #hash2 #hash3 [input by user]
 Enter tweet to process  or press enter to exit [Machine]
 [press Enter/return]
 
-#hash2 2
+#hash2
 
-#hash1 1
+#hash1
 
-#hash3 1
+#hash3

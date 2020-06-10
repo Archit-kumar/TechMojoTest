@@ -95,7 +95,7 @@ class HashTagData implements Comparable<HashTagData>{
     @Override
     public String toString(){
 
-        return this.getHashtag()+" "+this.frequency;
+        return this.getHashtag();
     }
 
     public int compareTo(HashTagData data)
